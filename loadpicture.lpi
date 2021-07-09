@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="11"/>
+    <General>
+      <Flags>
+        <SaveOnlyProjectUnits Value="True"/>
+        <LRSInOutputDirectory Value="False"/>
+      </Flags>
+      <MainUnit Value="0"/>
+      <Title Value="loadpicture"/>
+      <Resources Count="16">
+        <Resource_0 FileName="battery1.png" Type="RCDATA" ResourceName="BATTERY1"/>
+        <Resource_1 FileName="bluegreen1.png" Type="BITMAP" ResourceName="BLUEGREEN1"/>
+        <Resource_2 FileName="charger2.png" Type="RCDATA" ResourceName="CHARGER2"/>
+        <Resource_3 FileName="Dashpanel.png" Type="RCDATA" ResourceName="DASHPANEL"/>
+        <Resource_4 FileName="Dashpaneltiny.png" Type="RCDATA" ResourceName="DASHPANELTINY"/>
+        <Resource_5 FileName="greenenergy.png" Type="RCDATA" ResourceName="GREENENERGY"/>
+        <Resource_6 FileName="greenenergy2.png" Type="RCDATA" ResourceName="GREENENERGY2"/>
+        <Resource_7 FileName="griff.png" Type="RCDATA" ResourceName="GRIFF"/>
+        <Resource_8 FileName="inverter1.png" Type="RCDATA" ResourceName="INVERTER1"/>
+        <Resource_9 FileName="lab.png" Type="RCDATA" ResourceName="LAB"/>
+        <Resource_10 FileName="lighter2.png" Type="RCDATA" ResourceName="LIGHTER2"/>
+        <Resource_11 FileName="panel3.png" Type="RCDATA" ResourceName="PANEL3"/>
+        <Resource_12 FileName="panel4.png" Type="RCDATA" ResourceName="PANEL4"/>
+        <Resource_13 FileName="RaspiSM.png" Type="RCDATA" ResourceName="RASPISM"/>
+        <Resource_14 FileName="solarpanel1.png" Type="RCDATA" ResourceName="SOLARPANEL1"/>
+        <Resource_15 FileName="toohey.png" Type="RCDATA" ResourceName="TOOHEY"/>
+      </Resources>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="1">
+        <Mode0 Name="default"/>
+      </Modes>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="loadpicture.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="62"/>
+        <CursorPos X="5" Y="64"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit0>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <Parsing>
+      <SyntaxOptions>
+        <UseAnsiStrings Value="False"/>
+      </SyntaxOptions>
+    </Parsing>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+  </CompilerOptions>
+</CONFIG>
